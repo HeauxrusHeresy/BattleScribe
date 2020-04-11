@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="HeauxrusHeresy" indexUrl="http://www.github.com/HeauxrusHeresy/Battlescribe" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="The Horus Heresy.gstz" dataType="gamesystem" dataId="ca571888-56a9-c58e-ddaf-54f4713538bc" dataName="Warhammer 30,000 - The Horus Heresy" dataBattleScribeVersion="2.03" dataRevision="116"/>
+    <dataIndexEntry filePath="(HH) Mechanicum - Taghmata Army List.catz" dataType="catalogue" dataId="cf03-f607-41dc-7545" dataName="Mechanicum: Taghmata Army List" dataBattleScribeVersion="2.03" dataRevision="92"/>
+    <dataIndexEntry filePath="(HH) Chaos Daemons Army List.catz" dataType="catalogue" dataId="640c-568f-af74-400f" dataName="Chaos Daemons: Codex (2013)" dataBattleScribeVersion="2.03" dataRevision="63"/>
+    <dataIndexEntry filePath="(HH) Imperialis Militia and Cults Army List.catz" dataType="catalogue" dataId="90aa-c2c8-ffb0-496e" dataName="Imperialis Militia and Cults Army List" dataBattleScribeVersion="2.03" dataRevision="99"/>
+    <dataIndexEntry filePath="(HH) Necron Army List.catz" dataType="catalogue" dataId="b50f-0671-3aea-cf90" dataName="Necron Army List (Fanmade)" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="(HH) Talons of the Emperor Army List.catz" dataType="catalogue" dataId="a30a-7522-3343-553a" dataName="Talons of the Emperor" dataBattleScribeVersion="2.03" dataRevision="100"/>
+    <dataIndexEntry filePath="(HH) Mechanicum - Questoris Knight.catz" dataType="catalogue" dataId="32d1ddc6-3187-cf6f-3bf8-9891e527a002" dataName="Questoris Knight Crusade Army" dataBattleScribeVersion="2.03" dataRevision="50"/>
+    <dataIndexEntry filePath="(HH) Craftworld Eldar - Asuryani Army List.catz" dataType="catalogue" dataId="0798-288f-4f71-eab9" dataName="Asuryani Army List (Fanmade)" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="(HH) Legiones_Astartes_Age_of_Darkness_Army_List.catz" dataType="catalogue" dataId="839b6f2a-4041-398b-fc2d-dc6a31d5f75e" dataName="Legiones Astartes: Age of Darkness Army List" dataBattleScribeVersion="2.03" dataRevision="557"/>
+    <dataIndexEntry filePath="(HH) Solar Auxilia - Crusade Army List.catz" dataType="catalogue" dataId="7f243fc5-c5fd-8b2c-7b07-907bf684bb72" dataName="Solar Auxilia" dataBattleScribeVersion="2.03" dataRevision="64"/>
+    <dataIndexEntry filePath="(HH) Daemons of the Ruinstorm Army List.catz" dataType="catalogue" dataId="8700-b3bb-a471-a0ad" dataName="Daemons of the Ruinstorm" dataBattleScribeVersion="2.03" dataRevision="14"/>
+  </dataIndexEntries>
+</dataIndex>
